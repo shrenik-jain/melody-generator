@@ -1,7 +1,7 @@
 # melody-generator
 This repository helps to generate tunes using math and python
 
-### Usage
+## Usage
 
 - Install the requirements:
 `$pip install -r requirements.txt`
