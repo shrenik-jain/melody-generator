@@ -1,5 +1,5 @@
 # melody-generator
-This repository helps to generate tunes using math and python
+<b>In this repository, we’ll see how to generate waves with different frequencies, build a self-tailored virtual piano, and generate a playable melody. All of this using Python and it's dependant libraries.</b>
 
 ## Usage
 
