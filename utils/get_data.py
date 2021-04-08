@@ -3,14 +3,14 @@ import matplotlib.pyplot as plt
 
 class Generator: 
 
-    def fetch_wave_data(sampling_rate, frequecy, duration=0.5):
+    def fetch_wave_data(sampling_rate, frequency, duration=0.5):
         '''
-        Takes frequecy and duration for a wave as input and 
+        Takes frequency and duration for a wave as input and 
         returns an array of values at all points in time.
         '''
         amplitude = 4000
         time = np.linspace(0 , duration , int(sampling_rate * duration))
-        wave = amplitude * np.sin(2 * np.pi * frequecy * time)
+        wave = amplitude * np.sin(2 * np.pi * frequency * time)
 
         return wave
 
