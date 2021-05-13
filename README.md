@@ -1,5 +1,5 @@
 # melody-generator
-<b>In this repository, we’ll see how to generate waves with different frequencies, build a self-tailored virtual piano, and generate a playable melody. All of this using Python and it's dependant libraries.</b>
+<b>In this repository, I've Built a virtual piano with its very own octave, using the base frequency of a single note. Synthesized 4 to 5 tunes using the octave of the virtual piano and python's SciPy and NumPy libraries.</b>
 
 ## Usage
 
